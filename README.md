@@ -11,9 +11,9 @@
   📫 How to reach me 
   <a href="https://velog.io/@surferwithus">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=surferwithus" alt="Velog's GitHub stats"/> </a> or 
-  <a href="https://instagram.com/orezvun">
+  <a href="https://instagram.com/surferwithus">
     <img 
-      src="http://img.shields.io/badge/-orezvun-black?style=flat&logo=instagram&link=https://instagram.com/surferwithus/"
+      src="http://img.shields.io/badge/-surferwithus-black?style=flat&logo=instagram&link=https://instagram.com/surferwithus/"
       style="height: auto; margin-left: 10px; margin-right: 10px;"
     />
   </a>
