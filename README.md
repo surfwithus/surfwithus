@@ -7,7 +7,6 @@
   👋 Hi, I’m Yun-yeong Kim.<br>
   ⚡ I'm studying CSE in Pusan Nat'l Univ.<br>
   🌱 I’m currently learning C++, react.<br>
- ⚡ Department club : <strong>Apptive</strong><br>
   📫 How to reach me 
   <a href="https://velog.io/@surferwithus">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=surferwithus" alt="Velog's GitHub stats"/> </a> or 
