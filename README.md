@@ -22,16 +22,6 @@
    👀 About me
 </h2>
 <h3 align="center">
-    Baekjoon
-</h3>
-<p align="center">
-  <a href="https://solved.ac/dbsdud3272">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile">
-  </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile"/>
-</p>
-
-<h3 align="center">
     Github Profile Card
 </h3>
 <p align="center">
@@ -44,6 +34,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/> -->
+</p>
+
+<h3 align="center">
+    Baekjoon
+</h3>
+<p align="center">
+  <a href="https://solved.ac/dbsdud3272">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile">
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile"/>
 </p>
 
 </br>
