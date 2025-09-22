@@ -22,18 +22,18 @@
    👀 About me
 </h2>
 <h3 align="center">
-    Github Profile Card
-</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
-</p>
-
-<h3 align="center">
     Github Stats
 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/> -->
+</p>
+
+<h3 align="center">
+    Github Profile Card
+</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
 <h3 align="center">
