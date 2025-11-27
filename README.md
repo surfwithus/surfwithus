@@ -32,7 +32,7 @@
     Github Profile Card
 </h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surfwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
 <h3 align="center">
